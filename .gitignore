@@ -1,4 +1,7 @@
 README.html
 .ipynb_checkpoints/*.ipynb
 jupyter_notebooks/.ipynb_checkpoints/*.ipynb
-.vscode
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
